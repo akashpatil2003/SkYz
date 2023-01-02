@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @RozBoY
+- 👋 Hi, I’m @Akash
 - 👀 I’m interested in ...Web Development
 - 🌱 I’m currently learning ...Python and Full Stack web development
 - 💞️ I’m looking to collaborate on ...Internships
